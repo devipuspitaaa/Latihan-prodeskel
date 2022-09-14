@@ -17,6 +17,14 @@ Route::get('/', function () {
     return view('dashboard');
 });
 
-Route::get('/form', function () {
-    return view('form');
+Route::get('/sdm', function () {
+    return view('sdm.index');
+});
+
+Route::get('/pertanian', function () {
+    return view('pertanian.index');
+});
+
+Route::get('/ekonomi', function () {
+    return view('ekonomi.index');
 });
