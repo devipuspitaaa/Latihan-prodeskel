@@ -54,7 +54,7 @@
               <!--change to offline or busy as needed-->
             </div>
             <div class="nav-profile-text d-flex ms-0 mb-3 flex-column">
-              <span class="font-weight-semibold mb-1 mt-2 text-center">Antonio Olson</span>
+              <span class="font-weight-semibold mb-1 mt-2 text-center">Ririn Mayangsari</span>
             </div>
           </a>
         </li>
@@ -92,12 +92,6 @@
               </li>
             </ul>
           </div>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="pages/tables/basic-table.html">
-            <i class="mdi mdi-table-large menu-icon"></i>
-            <span class="menu-title">Tables</span>
-          </a>
         </li>
       </ul>
     </nav>
